@@ -41,17 +41,9 @@ contact@anubhavtrainings.com
 
 ---
 
-## Progress Values
-
-- 🟡 Planned
-- 🔵 In Progress
-- 🟢 Completed
-
----
-
 <div align="center">
 
-### ❤️ Made with Love 🎓
+### ❤️ Made in Love with SAP CAP development 🎓
 
 ## by Anubhav Trainings
 
