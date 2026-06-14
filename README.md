@@ -12,7 +12,7 @@ contact@anubhavtrainings.com
 
 | Date | Day | Hours | Time | Progress |
 |------|-----|------:|------|----------|
-| 15-Jun-26 | Monday | 2 | 1:30 PM - 3:30 PM | 🟡 Planned |
+| 15-Jun-26 | Monday | 2 | 1:30 PM - 3:30 PM | 🔵 In Progress |
 | 16-Jun-26 | Tuesday | 2 | 1:30 PM - 3:30 PM | 🟡 Planned |
 | 17-Jun-26 | Wednesday | 2 | 1:30 PM - 3:30 PM | 🟡 Planned |
 | 22-Jun-26 | Monday | 2 | 1:30 PM - 3:30 PM | 🟡 Planned |
@@ -46,6 +46,14 @@ contact@anubhavtrainings.com
 ### ❤️ Made in Love with SAP CAP development 🎓
 
 ## by Anubhav Trainings
+
+---
+
+## Progress Values
+
+- 🟡 Planned
+- 🔵 In Progress
+- 🟢 Completed
 
 </div>
 
