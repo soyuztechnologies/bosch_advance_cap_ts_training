@@ -12,8 +12,8 @@ contact@anubhavtrainings.com
 
 | Date | Day | Hours | Time | Progress |
 |------|-----|------:|------|----------|
-| 15-Jun-26 | Monday | 2 | 1:30 PM - 3:30 PM | 🔵 In Progress |
-| 16-Jun-26 | Tuesday | 2 | 1:30 PM - 3:30 PM | 🟡 Planned |
+| 15-Jun-26 | Monday | 2 | 1:30 PM - 3:30 PM | 🟢 Completed |
+| 16-Jun-26 | Tuesday | 2 | 1:30 PM - 3:30 PM | 🔵 In Progress |
 | 17-Jun-26 | Wednesday | 2 | 1:30 PM - 3:30 PM | 🟡 Planned |
 | 22-Jun-26 | Monday | 2 | 1:30 PM - 3:30 PM | 🟡 Planned |
 | 23-Jun-26 | Tuesday | 2 | 1:30 PM - 3:30 PM | 🟡 Planned |
